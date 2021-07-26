@@ -1,5 +1,5 @@
 
-# 👋 Hi, there!
+### 👋 Hi, there!
 
 <!--
 **mfakane/mfakane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfakane&langs_count=10&layout=compact" alt="Github Readme Stats" />
 </a>
 
-I'm **MF Akane**.
+I'm **MF Akane** (ミーフォ茜).
 
 - ⚒️ Writes: C#, TypeScript, Python
 - 📝 Uses: Visual Studio Code, GNU nano
