@@ -1,4 +1,5 @@
-### Hi there 👋
+
+# 👋 Hi, there!
 
 <!--
 **mfakane/mfakane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfakane&langs_count=10&layout=compact" alt="Github Readme Stats" />
+</a>
+
+I'm **MF Akane**.
+
+- ⚒️ Writes: C#, TypeScript, Python
+- 📝 Uses: Visual Studio Code, GNU nano
+- ⚙️ Likes: Microsoft Windows, Arch Linux
+- 🗣️ Speaks: Japanese, English
+- 😄 Pronouns: She/Her
