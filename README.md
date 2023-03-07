@@ -26,4 +26,3 @@ I'm **MF Akane** (ミーフォ茜).
 - 📝 Uses: Visual Studio Code, GNU nano
 - ⚙️ Likes: Microsoft Windows, Arch Linux
 - 🗣️ Speaks: Japanese, English
-- 😄 Pronouns: She/Her
