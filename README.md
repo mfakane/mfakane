@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 I'm **MF Akane** (ミーフォ茜).
 
 - ⚒️ Writes: C#, TypeScript, Python
-- 📝 Uses: Visual Studio Code, GNU nano
+- 📝 Uses: JetBrains Rider, Microsoft Visual Studio, Visual Studio Code, GNU nano
 - ⚙️ Likes: Microsoft Windows, Arch Linux
 - 🗣️ Speaks: Japanese, English
