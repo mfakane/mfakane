@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 I'm **MF Akane** (ミーフォ茜).
 
-- ⚒️ Writes: C#, TypeScript, Python
+- ⚒️ Writes: C#, TypeScript, Rust
 - 📝 Uses: JetBrains Rider, Microsoft Visual Studio, Visual Studio Code, GNU nano
-- ⚙️ Likes: Microsoft Windows, Arch Linux
+- ⚙️ Likes: Microsoft Windows, NixOS
 - 🗣️ Speaks: Japanese, English
